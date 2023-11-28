@@ -1,6 +1,6 @@
 ### Desarrollador Full Stack 👋
 
-<h2>Creando el readme</h2>
+<h2>Hola, soy Leo Gimenez</h2>
 
 <!--
 **LeoGidev/LeoGidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
