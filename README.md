@@ -22,9 +22,41 @@ Here are some ideas to get you started:
 una empresa de internet, tiempo en el cual participé de diferentes proyectos tanto en programación web como en desarrollos de tecnologías IoT y automatizaciones
 de tareas. He decidido dar el salto y dedicarme enteramente a este aposionante campo laboral.</p> 
 <h3>Tecnologías:</h3>
-<table style="background-color:grey;">
- <tr> <td>
+<table>
+ <tr>
+  <td>
+Python
+<img src="piton.png" width="20px"></td>
+  <td>
+PHP
+<img src="php.png" width="20px"></td>
+<td>
 HTML
 <img src="html5.png" width="20px"></td>
+<td>
+CSS
+<img src="css3.png" width="20px"></td>
+<td>
+Java Script
+<img src="js.png" width="20px"></td>
+<td>
+MySql
+<img src="mysql.png" width="20px"></td>
+ <td>
+Git
+<img src="git.png" width="20px"></td>
+<td>
+ <td>
+Git Hub
+<img src="github.png" width="20px"></td>
+Arduino
+<img src="arduino.png" width="20px"></td>
+<td>
+Esp32
+<img src="esp32.png" width="20px"></td>
+<td>
+Selenium
+<img src="selenium.png" width="20px"></td>
+  
  </tr>
 </table>
