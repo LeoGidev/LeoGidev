@@ -1,6 +1,6 @@
-### Desarrollador Full Stack 👋
+### Desarrollador Full Stack
 
-<h2>Hola, soy Leo Gimenez</h2>
+<h2>Hola, soy Leo Gimenez 👋 </h2>
 
 <!--
 **LeoGidev/LeoGidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="portada.jpg">
+<p>Actualmente estoy dedicado y enfocado integramente en el desarrollo de aplicaciones con distintas tecnologías. Durante siete años trabajé para
+una empresa de internet, tiempo en el cual participé de diferentes proyectos tanto en programación web como en desarrollos de tecnologías IoT y automatizaciones
+de tareas.He decidido dar el salto y dedicarme enteramente a este aposionante campo laboral</p> 
+
+
