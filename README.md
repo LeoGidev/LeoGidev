@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 una empresa de internet, tiempo en el cual participé de diferentes proyectos tanto en programación web como en desarrollos de tecnologías IoT y automatizaciones
 de tareas. He decidido dar el salto y dedicarme enteramente a este aposionante campo laboral.</p> 
 <h3>Tecnologías:</h3>
-<div style="background-color:grey;">
+<table style="background-color:grey;">
+ <tr> <td>
 HTML
-<img src="html5.png" width="20px">
-</div>
+<img src="html5.png" width="20px"></td>
+ </tr>
+</table>
