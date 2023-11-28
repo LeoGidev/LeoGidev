@@ -24,7 +24,7 @@ de tareas. He decidido dar el salto y dedicarme enteramente a este aposionante c
 <h3>Tecnologías:</h3>
 <table>
 <tr>
-  <td>Python< img src="piton.png" width="20px"></td>
+  <td>Python <img src="piton.png" width="20px"></td>
   <td>PHP <img src="php.png" width="20px"></td>
   <td>HTML <img src="html5.png" width="20px"></td>
   <td>CSS <img src="css3.png" width="20px"></td>
@@ -38,7 +38,7 @@ de tareas. He decidido dar el salto y dedicarme enteramente a este aposionante c
   <td>Esp32<img src="esp32.png" width="20px"></td>
  </tr>
 <tr>
-<td>Selenium<img src="selenium.png" width="20px"></td>
+<td>Selenium<img src="Selenium_Logo.png" width="20px"></td>
   
  </tr>
 </table>
