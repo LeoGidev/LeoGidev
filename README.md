@@ -43,3 +43,8 @@ de tareas. He decidido dar el salto y dedicarme enteramente a este aposionante c
   
  </tr>
 </table>
+<p>Dia a día me capacito en nuevas tecnologías y tengo interés en en los siguientes campos:</p>
+<table><tr><td>Laravel</td><td>Vue-js</td><td>React</td><td>Ruby</td><td>Kotlin</td><td>Angular</td>
+</tr></table>
+<p>Las cuales iré incorporando y subiré a esta cuenta cada proyecto de práctica</p>
+
