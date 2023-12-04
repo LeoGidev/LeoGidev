@@ -31,11 +31,11 @@ de tareas. He decidido dar el salto y dedicarme enteramente a este aposionante c
   <td>Java Script <img src="js.png" width="20px"></td>
 </tr>
  <tr>
-  <td>MySql <img src="mysql.png" width="20px"></td>
+  <td>MySql <img src="mysql.png" width="40px"></td>
   <td>Git <img src="git.png" width="20px"></td>
   <td>Git Hub <img src="github.png" width="20px"></td>
   <td>Arduino <img src="arduino.png" width="20px"></td>
-  <td>Esp32 <img src="esp32.png" width="20px"></td>
+  <td>Esp32 <img src="esp32.png" width="40px"></td>
  </tr>
 <tr>
 <td>Selenium <img src="Selenium_Logo.png" width="20px"></td>
