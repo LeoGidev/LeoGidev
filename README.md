@@ -33,13 +33,13 @@ de tareas. He decidido dar el salto y dedicarme enteramente a este aposionante c
  <tr>
   <td>MySql <img src="mysql.png" width="20px"></td>
   <td>Git <img src="git.png" width="20px"></td>
-  <td>Git Hub<img src="github.png" width="20px"></td>
-  <td>Arduino<img src="arduino.png" width="20px"></td>
-  <td>Esp32<img src="esp32.png" width="20px"></td>
+  <td>Git Hub <img src="github.png" width="20px"></td>
+  <td>Arduino <img src="arduino.png" width="20px"></td>
+  <td>Esp32 <img src="esp32.png" width="20px"></td>
  </tr>
 <tr>
-<td>Selenium<img src="Selenium_Logo.png" width="20px"></td>
-<td>C++<img src="c.png" width="20px"></td>
+<td>Selenium <img src="Selenium_Logo.png" width="20px"></td>
+<td>C++ <img src="c.png" width="20px"></td>
   
  </tr>
 </table>
