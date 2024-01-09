@@ -18,9 +18,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="portada.jpg">
-<p>Actualmente estoy dedicado y enfocado integramente en el desarrollo de aplicaciones con distintas tecnologías. Durante siete años trabajé para
-una empresa de internet, tiempo en el cual participé de diferentes proyectos tanto en programación web como en desarrollos de tecnologías IoT y automatizaciones
-de tareas. He decidido dar el salto y dedicarme enteramente a este apasionante campo laboral.</p> 
+<p>Actualmente, me encuentro completamente enfocado en el desarrollo de aplicaciones utilizando diversas tecnologías de vanguardia. 
+                      Durante siete años, tuve el privilegio de trabajar para una destacada empresa de internet, donde ascendí hasta el puesto de Supervisor en el Área de
+                       Desarrollo de Tecnologías Electrónicas. Durante este periodo, tuve la oportunidad de participar activamente en una amplia variedad de proyectos. Estos 
+                       abarcaron desde programación web avanzada hasta desarrollos innovadores en el ámbito de IoT (Internet de las Cosas) y automatización de procesos.
+                        Con una sólida experiencia adquirida, he tomado la decisión de sumergirme por completo en este fascinante campo laboral.
+                        </p><p> Mi pasión por la tecnología y el desarrollo de soluciones innovadoras me impulsa a buscar constantemente nuevos desafíos 
+                         y oportunidades para crecer profesionalmente."</p>
 <h3>Tecnologías:</h3>
 <table>
 <tr>
