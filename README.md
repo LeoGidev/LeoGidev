@@ -31,17 +31,21 @@ Here are some ideas to get you started:
   <td>Python <img src="piton.png" width="20px"></td>
   <td>PHP <img src="php.png" width="20px"></td>
   <td>HTML <img src="html5.png" width="20px"></td>
+  </tr>
+ <tr>
   <td>CSS <img src="css3.png" width="20px"></td>
   <td>Java Script <img src="js.png" width="20px"></td>
-</tr>
- <tr>
+
   <td>MySql <img src="mysql.png" width="40px"></td>
+  </tr>
+ <tr>
   <td>Git <img src="git.png" width="20px"></td>
   <td>Git Hub <img src="github.png" width="20px"></td>
   <td>Arduino <img src="arduino.png" width="20px"></td>
-  <td>Esp32 <img src="esp32.png" width="40px"></td>
+  
  </tr>
 <tr>
+  <td>Esp32 <img src="esp32.png" width="40px"></td>
 <td>Selenium <img src="Selenium_Logo.png" width="20px"></td>
 <td>C++ <img src="c.png" width="20px"></td>
   
