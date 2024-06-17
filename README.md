@@ -56,7 +56,8 @@ Here are some ideas to get you started:
 </tr></table>
 <p>Las cuales iré incorporando y subiré a esta cuenta cada proyecto de práctica</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoGidev)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoGidev&layout=compact&langs_count=8&theme=radical)
+
 
 
 ![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=LeoGidev&show_icons=true&theme=radical)
