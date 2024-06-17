@@ -56,3 +56,5 @@ Here are some ideas to get you started:
 </tr></table>
 <p>Las cuales iré incorporando y subiré a esta cuenta cada proyecto de práctica</p>
 
+![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=LeoGidev&show_icons=true&theme=radical)
+
